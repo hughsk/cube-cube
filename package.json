@@ -1,0 +1,35 @@
+{
+  "name": "cube-cube",
+  "version": "1.0.0",
+  "description": "A lazy voxel mesher",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "beefy example.js --open"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "dependencies": {
+    "rectangular-prism": "^1.0.0"
+  },
+  "devDependencies": {
+    "beefy": "^2.0.2",
+    "mesh-combine": "^1.0.0",
+    "mesh-reindex": "^1.0.0",
+    "mesh-viewer": "^1.0.0",
+    "unindex-mesh": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/cube-cube.git"
+  },
+  "keywords": [
+    "voxel",
+    "mesh",
+    "3d",
+    "webgl"
+  ],
+  "homepage": "https://github.com/hughsk/cube-cube",
+  "bugs": {
+    "url": "https://github.com/hughsk/cube-cube/issues"
+  }
+}
